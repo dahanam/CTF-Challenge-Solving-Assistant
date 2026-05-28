@@ -5,7 +5,7 @@ text-based Capture The Flag (CTF) cybersecurity challenges using GPT-4o,
 chain-of-thought prompting, custom CTF tools, and Retrieval-Augmented 
 Generation (RAG).
 
-**Authors:** Dahana Moz Ruiz & Maria Santos — Kean University, Spring 2026
+**NOTE:** Need to add docker!
 
 ---
 
